@@ -1,0 +1,13 @@
+li{
+         display: inline;
+         gap: 20px;
+       
+}
+.container{
+    border: 1px solid;
+    padding: 28px 498px;
+    text-align: center;
+    word-spacing: 71px;
+    background-color: blue;
+    color: white;
+}
